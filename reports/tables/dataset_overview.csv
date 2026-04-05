@@ -1,0 +1,5 @@
+table,rows,columns,missing_values
+ratings,100836,4,0
+movies,9742,3,0
+tags,3683,4,0
+links,9742,3,8

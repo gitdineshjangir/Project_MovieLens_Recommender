@@ -1,0 +1,15 @@
+table,column,dtype,description,notes
+ratings,userId,integer,Unique user identifier,
+ratings,movieId,integer,Unique item identifier,
+ratings,rating,float,Explicit preference score on a 0.5 to 5.0 scale,"Target variable for rating prediction, used to derive implicit feedback"
+ratings,timestamp,datetime,Interaction timestamp,
+movies,movieId,integer,Unique item identifier,
+movies,title,string,Movie title with year,
+movies,genres,string,Pipe-separated genre labels,Used for content-based features
+tags,userId,integer,User identifier for free-text tag,
+tags,movieId,integer,Item identifier for free-text tag,
+tags,tag,string,User-generated tag text,Used for TF-IDF content features
+tags,timestamp,datetime,Tag timestamp,
+links,movieId,integer,Item identifier,
+links,imdbId,integer,IMDb mapping,External link identifier
+links,tmdbId,integer,TMDb mapping,External link identifier
