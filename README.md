@@ -148,7 +148,6 @@ User → Feature Engineering → Candidate Generation
 ├── models/
 ├── reports/
 ├── notebooks/
-├── src/
 ├── requirements.txt
 └── README.md
 ```
