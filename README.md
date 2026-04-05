@@ -1,4 +1,4 @@
-# 🎬 MovieLens Recommender System Capstone
+# 🎬 MovieLens Recommender System
 
 ## 📌 Project Overview
 
