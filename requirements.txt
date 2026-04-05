@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+joblib
+# Optional: notebook or jupyterlab if running locally
+notebook
